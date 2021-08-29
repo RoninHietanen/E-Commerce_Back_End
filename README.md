@@ -34,9 +34,10 @@ MySQL installed.
 5. The next command will be `npm init -y`
         if after completing this command you see: 
           "dependencies": {
-          "dotenv": "^10.0.0",
-          "mysql2": "^2.3.0",
-          "sequelize": "^6.6.5"
+            "dotenv": "^8.2.0",
+            "express": "^4.17.1",
+            "mysql2": "^2.1.0",
+            "sequelize": "^5.21.7"
           }
         Skip to 11 otherwise continue from 6
 6. The next command will be `npm i sequelize --save`
